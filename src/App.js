@@ -20,6 +20,7 @@ function App() {
           hideProgressBar={false}
           newestOnTop={false}
           closeOnClick
+          closeButton={false}
           pauseOnFocusLoss
           draggable
           draggablePercent={10}
