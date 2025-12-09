@@ -23,7 +23,6 @@ function App() {
           closeButton={false}
           pauseOnFocusLoss
           draggable
-          draggablePercent={10}
           pauseOnHover
           theme="light"
         />
